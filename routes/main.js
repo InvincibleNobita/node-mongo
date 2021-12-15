@@ -1,5 +1,5 @@
-const MOne = require('../models/mockdataone');
-const MTwo = require('../models/mockdatatwo');
+const MOne = require('../models/mone');
+const MTwo = require('../models/mtwo');
 
 const router = require('express').Router();
 
